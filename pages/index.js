@@ -17,7 +17,7 @@ export default function Home() {
 				direction="right"
 				size={98}
 				animation="tail"
-				customHref="https://github.com/abrahamcalsin/screen-quotes"
+				customHref="https://github.com/uvacoder/abc-screen-quotes"
 				bannerColor="#312E81"
 				octoColor="rgb(224, 231, 255)"
 			/>
